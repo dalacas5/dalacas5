@@ -1,4 +1,4 @@
-# ![https://github.com/dalacas5](https://github.com/dalacas5/dalacas5/blob/main/dany_minecraft.png) ¡Hola! Soy Daniel Castillo 👋
+# ![https://github.com/dalacas5](https://github.com/dalacas5/dalacas5/blob/main/dany_minecraft.png) ¡Hola! Soy Daniel Castillo 👋 
 
 🎯 **Ingeniero Mecatrónico** especializado en **firmware embebido y desarrollo de hardware**.  
 Apasionado por diseñar sistemas electrónicos eficientes y robustos para aplicaciones industriales y de IoT.
@@ -56,9 +56,30 @@ Apasionado por diseñar sistemas electrónicos eficientes y robustos para aplica
 |---|---|---|
 | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |   |
 
+<!--
+## 🧰 Tecnologías y herramientas
+
+### Lenguajes
+`C` | `C++` | `Python` | `JS` | `LabVIEW` | `MATLAB`
+
+### Protocolos
+`LoRaWAN` | `Modbus` | `MQTT` | `I2C` | `SPI` | `UART`
+
+### 🛠️ Desarrollo de Sistemas Embebidos
+`ESP-IDF` | `Arduino Core` | `FreeRTOS` | `PlatformIO` | `Microchip Studio` | `STM32CubeIDE`
+
+### ⚡ Microcontroladores & Arquitecturas
+`ESP32` | `ESP8266` | `ATmega (AVR)` | `ATtiny (AVR)` | `STM32 (ARM Cortex-M)` | `ATSAM (ARM Cortex-M)`
+
+### Electrónica
+`KiCad` | `Diseño PCB` | `Sistemas de alimentación` | `Sensores industriales`
+
+### Control de versiones
+`Git` | `GitHub` 
+-->
 ---
 
-## 📂 Próximos Proyectos a Publicar
+## 📂 Próximos proyectos a publicar
 Actualmente estoy organizando y documentando mis desarrollos para subirlos a GitHub como parte de mi portafolio:
 
 - 🔹 **Estación meteorológica** con sensores I2C y SPI, transmisión LoRaWAN.
@@ -73,10 +94,16 @@ Actualmente estoy organizando y documentando mis desarrollos para subirlos a Git
 
 ---
 
+<<<<<<< HEAD
 ## 📫 Conecta Conmigo
 | | |
 |---|---|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalacas/) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tuemail@dominio.com) |
+=======
+## 📫 Conecta conmigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/dalacas/)
+- 📧 [Email](mailto:tuemail@dominio.com)
+>>>>>>> parent of 90356e7 (Update README)
 
 ---
 
