@@ -1,4 +1,4 @@
-# !(https://github.com/dalacas5/dalacas5/blob/main/dany_emote_.png)👋 ¡Hola! Soy Daniel L.
+# ![https://github.com/dalacas5](https://github.com/dalacas5/dalacas5/blob/main/dany_emote_.png)👋 ¡Hola! Soy Daniel L.
 
 🎯 **Ingeniero Mecatrónico** especializado en **firmware embebido y desarrollo de hardware**.  
 Apasionado por diseñar sistemas electrónicos eficientes y robustos para aplicaciones industriales y de IoT.
